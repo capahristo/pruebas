@@ -99,7 +99,7 @@ http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__TV__M__HD__
 http://127.0.0.1:6878/ace/getstream?id=68ee0df59a70d730d32124de9a15477eef250d7f
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Final libertadores opciï¿½n 2 2100
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Final libertadores opción 2 2100
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Movistar Plus__
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
@@ -109,7 +109,7 @@ http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SPORTV 3 POR
 http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,__Bein Sport ï¿½__ 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,__Bein Sport ñ__ 
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Ellas__
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
