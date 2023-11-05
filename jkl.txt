@@ -38,7 +38,7 @@ http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,__M+ LaLiga TV__ FHD__
 http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,__LaLiga TV Hypermotion TV__M__HD__
-http://127.0.0.1:6878/ace/getstream?id=68ee0df59a70d730d32124de9a15477eef250d7f
+http://127.0.0.1:6878/ace/getstream?id=f16f5ab2bc46b30daa7ba97871af8f10c73db875
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,__LaLiga TV Hypermotion__ 1080__
 http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,__LaLiga TV Hypermotion__ 720__
