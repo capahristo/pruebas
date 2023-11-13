@@ -203,6 +203,18 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arena RU
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,EL Templo _peli
+http://127.0.0.1:6878/ace/getstream?id=25340a60559a26438554436d6565643e8ae34d9e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La ira de Becky _peli
+http://127.0.0.1:6878/ace/getstream?id=aa5f6ef653fc92bd350d4e29e8e074af964c592b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Allelujah _peli
+http://127.0.0.1:6878/ace/getstream?id=337f8eac2194125e6a884031e569f20ac5a31803
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El Rapto _peli
+http://127.0.0.1:6878/ace/getstream?id=2a1b4c7a4a31e44cff6306252cd3451140885207
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Baker _peli
+http://127.0.0.1:6878/ace/getstream?id=3617edb51fe373628e008f30c41c96f6da79f74d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El Asesino _peli
+http://127.0.0.1:6878/ace/getstream?id=1f4e295c76c2cfd6d940ad11ed29208896907b28
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Skinamarink (2023)_peli
 http://127.0.0.1:6878/ace/getstream?id=0b214f6f502161b29077aa21ca847a452ac4e34c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misterio en Venecia _(2023)_peli
