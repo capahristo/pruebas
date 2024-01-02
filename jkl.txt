@@ -207,21 +207,21 @@ http://127.0.0.1:6878/ace/getstream?id=25340a60559a26438554436d6565643e8ae34d9e
 http://127.0.0.1:6878/ace/getstream?id=aa5f6ef653fc92bd350d4e29e8e074af964c592b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Allelujah _peli
 http://127.0.0.1:6878/ace/getstream?id=337f8eac2194125e6a884031e569f20ac5a31803
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El Rapto _peli
-http://127.0.0.1:6878/ace/getstream?id=2a1b4c7a4a31e44cff6306252cd3451140885207
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Baker _peli
-http://127.0.0.1:6878/ace/getstream?id=3617edb51fe373628e008f30c41c96f6da79f74d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El Asesino _peli
-http://127.0.0.1:6878/ace/getstream?id=1f4e295c76c2cfd6d940ad11ed29208896907b28
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Skinamarink (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=0b214f6f502161b29077aa21ca847a452ac4e34c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misterio en Venecia _(2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=4653278b16a10789237941d569b8e38ffa434e94
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misterio en Venecia_ (2023)_peli
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Eugenio solo hay uno (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=f21bc24eb98ef6b2bbd7c4b6482f57c279c870f7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Que bello es morir (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=9a27bbacc98e50412fa1e71df9574c068da7a247
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Mi cuñado es un vampiro (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=88724a6223e8e826a14f8964b622d7bdb0f05b6b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El duelo (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=628ffc060cb6b43ce5b3972369967da0cd2f0555
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misterio en Venecia (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=622e7c0b4b0443cdef718c5819b5c1edaa122e0d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Perder es ganar un poco (2023) _peli
 http://127.0.0.1:6878/ace/getstream?id=9c31983a73f2f058ee21eece789226baa3b885d2
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The blackening (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=eb1698b9c02d2e1e4c5128cacc44b1adc27097ba
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The blackening_ (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=ca7715c0d71a2f77121703b8fae2d7d1f6372b86
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La hija del pantano (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=edd3a4863bd173466ec32a1f08b4f01342885bfe
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Saw X (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=42082256dc9d93a9cd0097b9a40fc1d8f9b66b5c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lego Marvel Avengers lego (2023)_peli
 http://127.0.0.1:6878/ace/getstream?id=6205277bd67a5a0a3b690cf7cdebac872e1818f4
