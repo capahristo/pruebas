@@ -219,5 +219,9 @@ http://127.0.0.1:6878/ace/getstream?id=9c31983a73f2f058ee21eece789226baa3b885d2
 http://127.0.0.1:6878/ace/getstream?id=edd3a4863bd173466ec32a1f08b4f01342885bfe
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Saw X (2023) _peli
 http://127.0.0.1:6878/ace/getstream?id=42082256dc9d93a9cd0097b9a40fc1d8f9b66b5c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Napoleon _peli
+http://127.0.0.1:6878/ace/getstream?id=276ce13777bf645981de88a1b89704e80c53e4fc
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Napoleon Opcion2 _peli
+http://127.0.0.1:6878/ace/getstream?id=31597ff8f7ae056e884d7a4cbf325e6a2c58a6dc
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lego Marvel Avengers lego (2023)_peli
 http://127.0.0.1:6878/ace/getstream?id=6205277bd67a5a0a3b690cf7cdebac872e1818f4
