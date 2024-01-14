@@ -94,6 +94,8 @@ http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2 GER
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Supercopa_
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Supercopa__
 http://127.0.0.1:6878/ace/getstream?id=cf3c9dca822e47dda561a375bd0827b727653e8f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Supercopa__HD
 http://127.0.0.1:6878/ace/getstream?id=8620cc7a6ce4dada7325c05f4c36af3d34f411af
