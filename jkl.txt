@@ -99,6 +99,8 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2 GER
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Multi TV__ 1080__
+http://127.0.0.1:6878/ace/getstream?id=8ff3c22be606d8fb51051d65e16a3dda3a259673
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Movistar Plus__
 http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SPORTV 1 POR
