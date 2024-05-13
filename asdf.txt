@@ -217,3 +217,9 @@ http://127.0.0.1:6878/ace/getstream?id=7bae096111cc835a99f1c933bf0e22a93bbb66b1
 http://127.0.0.1:6878/ace/getstream?id=9f229362b9efe8018b831bcaf54d09ecc3a5bacd
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Five nights at freddy _peli
 http://127.0.0.1:6878/ace/getstream?id=907375f768383173b5d716c86fa44972e42cf751
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) 1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=01275f73ae7354316f2904cd92d6dbd791b497fa
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) BR _peli
+http://127.0.0.1:6878/ace/getstream?id=d69293d6bcdb7ac3f47e9790d7c288c23fc6cf0d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) web4k _peli
+http://127.0.0.1:6878/ace/getstream?id=e91bce382c84105c8451acb6a543ba7d761a3c35
