@@ -205,8 +205,28 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arena RU
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Todas Menos Tú (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=80dbf2c92b4e6d8b601954da7c8d6d7dcfb81dfd
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Honeymoon (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=16af985028c85f9e0136229f5113ddbe8ab111b3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La madre de la novia (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=358bd9e463260ca524aca7c1212d9c0ab7095398
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La zona de interés (2023)_peli
+http://127.0.0.1:6878/ace/getstream?id=95a8693221627c729316b76938e74b82776e1fc6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El correo (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=eb2362d0f417078682796f29e14461420c6922e8
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Dos chicas a la fuga (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=5d3acf30e67ca390c2e1bbd883003123d5e48e00
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The marvels _peli
 http://127.0.0.1:6878/ace/getstream?id=b617628df78aeed530d684be28d2206176b85501
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Viaje hacia el desierto (2023)_peli
+http://127.0.0.1:6878/ace/getstream?id=30b99e4b236580bf9370bb8b46b94d24a9a66dd9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sombras del pasado (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=c20a97bdece39d7898253e85cc5b8d292e438de5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Noryang La batalla final (2023)_peli
+http://127.0.0.1:6878/ace/getstream?id=e25977b34bd54d628be34ae46974879abd09e68b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Telma, la unicornio (2024)_peli
+http://127.0.0.1:6878/ace/getstream?id=6e34a131bcee4a1d402f65c20d887f2340d70623
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Elemental _peli
 http://127.0.0.1:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Wish el poder de los deseos_peli
@@ -219,6 +239,8 @@ http://127.0.0.1:6878/ace/getstream?id=9f229362b9efe8018b831bcaf54d09ecc3a5bacd
 http://127.0.0.1:6878/ace/getstream?id=907375f768383173b5d716c86fa44972e42cf751
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) 1080 _peli
 http://127.0.0.1:6878/ace/getstream?id=01275f73ae7354316f2904cd92d6dbd791b497fa
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=897df1777dbdee1a7b1d41f972c872990439c7d8
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) BR _peli
 http://127.0.0.1:6878/ace/getstream?id=d69293d6bcdb7ac3f47e9790d7c288c23fc6cf0d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) web4k _peli
