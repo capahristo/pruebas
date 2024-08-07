@@ -269,3 +269,25 @@ http://127.0.0.1:6878/ace/getstream?id=897df1777dbdee1a7b1d41f972c872990439c7d8
 http://127.0.0.1:6878/ace/getstream?id=d69293d6bcdb7ac3f47e9790d7c288c23fc6cf0d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) web4k _peli
 http://127.0.0.1:6878/ace/getstream?id=e91bce382c84105c8451acb6a543ba7d761a3c35
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Garfield La película (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=094c2c01a3dff0d44e2481d234b4314f0a09145c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=14c861a46147f5a84c76215fb39c3b776065a508
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 720 _peli 
+http://127.0.0.1:6878/ace/getstream?id=9c178b8070de95b316c0964724a9738384cee854
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 1080p _peli
+http://127.0.0.1:6878/ace/getstream?id=03a737a9ed78f2d3d16ee52ceb138d2436301ae0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=a55a4c581a23951fee9e3e500633eb4688948a41
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024)4k _peli
+http://127.0.0.1:6878/ace/getstream?id=114ff079b923119d4628df0fdd50c5bbeb86fb14
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=561306b318bbbdb1ff2c31cbff15bb9c3ced3754
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 720_peli
+http://127.0.0.1:6878/ace/getstream?id=57ecfc05b8078c92911027ef4ea318d8f77c4cf9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 1080_peli
+http://127.0.0.1:6878/ace/getstream?id=c417602de1757b69ce777f3c9ebdb11795952dbf
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 720_peli
+http://127.0.0.1:6878/ace/getstream?id=944a548833a142975e406a624b72d6b3f20ca44b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 4k _peli 
+http://127.0.0.1:6878/ace/getstream?id=e4c3f6d0c4a203e97eb6dcc056c660a6d403de36
