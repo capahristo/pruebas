@@ -101,6 +101,30 @@ http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,Eurosport 2 GER
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal Jjoo 4k
+http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 1 jjoo 1080P
+http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 2 jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 3 Jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 4 Jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 5 Jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 6 Jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 7 jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 8 Jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal 9 jjoo 1080
+http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,__Teledeporte__
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="LA 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 uhd
+http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Multi TV__ 1080__
 http://127.0.0.1:6878/ace/getstream?id=8ff3c22be606d8fb51051d65e16a3dda3a259673
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Movistar Plus__
@@ -115,8 +139,6 @@ http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,__Ellas__
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,__Teledeporte__
-http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="BEIN SPORTS" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN Sports 1 FRA
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,FOX SPORTS 1 US
