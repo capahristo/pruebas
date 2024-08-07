@@ -271,8 +271,16 @@ http://127.0.0.1:6878/ace/getstream?id=d69293d6bcdb7ac3f47e9790d7c288c23fc6cf0d
 http://127.0.0.1:6878/ace/getstream?id=e91bce382c84105c8451acb6a543ba7d761a3c35
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Garfield La película (2024) _peli
 http://127.0.0.1:6878/ace/getstream?id=094c2c01a3dff0d44e2481d234b4314f0a09145c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Garfield La película (2024) 720p _peli
+http://127.0.0.1:6878/ace/getstream?id=0cf573ffc8a95be916e652544333d9fc1132674a
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) _peli
 http://127.0.0.1:6878/ace/getstream?id=14c861a46147f5a84c76215fb39c3b776065a508
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) 720p _peli 
+http://127.0.0.1:6878/ace/getstream?id=51c124c66a95b9af66acc65121de86ca6003fc77
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) 1080p _peli
+http://127.0.0.1:6878/ace/getstream?id=6307477173edf1c2efae40aea7f37d04e0ebb6bb
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) _peli 
+http://127.0.0.1:6878/ace/getstream?id=1ad94be585c4d9fc75eab6ef985212249ae62ac3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 720 _peli 
 http://127.0.0.1:6878/ace/getstream?id=9c178b8070de95b316c0964724a9738384cee854
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 1080p _peli
@@ -291,3 +299,11 @@ http://127.0.0.1:6878/ace/getstream?id=c417602de1757b69ce777f3c9ebdb11795952dbf
 http://127.0.0.1:6878/ace/getstream?id=944a548833a142975e406a624b72d6b3f20ca44b
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 4k _peli 
 http://127.0.0.1:6878/ace/getstream?id=e4c3f6d0c4a203e97eb6dcc056c660a6d403de36
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024)  _peli 
+http://127.0.0.1:6878/ace/getstream?id=e2676a4f6cb6d6a641791078c7d62acfcd49a13d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 720p _peli 
+http://127.0.0.1:6878/ace/getstream?id=16bff747b0a47adb5f1af5384027f7c28c27705c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 1080 _peli 
+http://127.0.0.1:6878/ace/getstream?id=db68cbee1177f57a7acfd8817b4e6b08aee29a94
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 1080p _peli 
+http://127.0.0.1:6878/ace/getstream?id=3e883fb6bd913feb55ed641245678c47a3e68742
