@@ -259,3 +259,39 @@ http://127.0.0.1:6878/ace/getstream?id=16bff747b0a47adb5f1af5384027f7c28c27705c
 http://127.0.0.1:6878/ace/getstream?id=db68cbee1177f57a7acfd8817b4e6b08aee29a94
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 1080p _peli 
 http://127.0.0.1:6878/ace/getstream?id=3e883fb6bd913feb55ed641245678c47a3e68742
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024) BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=c26cf48b98ca5c6a1b554640ac90a792405a7603
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024)HD _peli 
+http://127.0.0.1:6878/ace/getstream?id=14184889f333e57eb7e1e0b67c108359f1db4bde
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024)UHD _peli 
+http://127.0.0.1:6878/ace/getstream?id=ce7729d5f3f7b3e0593a796dd114496287b41d84
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=e8acf74a698ca11d063cc2625d3560cccd880fcc
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)HD _peli 
+http://127.0.0.1:6878/ace/getstream?id=2d4a591e0dcef6b2e447a6defdb1a3b95ff73cd5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=1afcedffe36f0cc2b691ee5d38ac0a578103cef3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024)BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=95e0d30b2f2e324c32d04d60b98a6ebb06a3c75f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024)hd _peli 
+http://127.0.0.1:6878/ace/getstream?id=56770a08a2f4c4dfcce02889e5466f3a9b6ad027
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024) _peli 
+http://127.0.0.1:6878/ace/getstream?id=268c5cc23d5d726d86058879a27db123d8957cac
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=a4a7f9c5da0d560bb7d0909c8ec2a6fd6d31be7a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=883ef0db9e71a51173ac624d297dfed0c1bc44e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=151d6533d01ed656e117ab4af0ab13a40b7a1d65
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=f5b24e1e3067333aec3e94d6e027f39675873117
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=77043ddb56a2fa2fce4209beef70d289a014c756
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=2987d95a8c41fbce25d41424d946be1cf583c179
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=d108c26981bbc464890eeea17eeaa17de21e3c23
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=754e57526868f8b167cbdc9abd1bb18854679b46
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=7f452ca6f9f86f5ad4314eef8b5aa7bfdac3d325
