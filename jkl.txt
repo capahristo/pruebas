@@ -295,3 +295,51 @@ http://127.0.0.1:6878/ace/getstream?id=d108c26981bbc464890eeea17eeaa17de21e3c23
 http://127.0.0.1:6878/ace/getstream?id=754e57526868f8b167cbdc9abd1bb18854679b46
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024) _peli
 http://127.0.0.1:6878/ace/getstream?id=7f452ca6f9f86f5ad4314eef8b5aa7bfdac3d325
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El sindicato (2024)br _peli
+http://127.0.0.1:6878/ace/getstream?id=047f8512c6f13f034b859fb57774c741ab87e125
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El sindicato (2024)hd _peli
+http://127.0.0.1:6878/ace/getstream?id=786a32e45b7e1aa6352d521bc523386fd4e6d6af
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El salto (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=51d63a3d0f4bbb7439660f9e73dbaf4d11fb3054
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El salto (2024)BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=17ebe84e585b6d495a870a8b0202610a4b3bf210
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024)hd _peli
+http://127.0.0.1:6878/ace/getstream?id=dead67b16e7bbed4bb9bda784f118f1d9cee271d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=d0546f0d914afe27b29811f111dc01e81cb4c24a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024)720 _peli 
+http://127.0.0.1:6878/ace/getstream?id=ca23b42dc7a3b322a0ffdf40dfd3dbfd4fb959a2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024) 4k _peli
+http://127.0.0.1:6878/ace/getstream?id=8418318d6e41f5c8646650f48701473fb8396d3e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arthur (2024) HD _peli
+http://127.0.0.1:6878/ace/getstream?id=3490c3afaac23e311ca4a3d4307e1049ca031464
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arthur (2024) BR4k _peli
+http://127.0.0.1:6878/ace/getstream?id=8df9e37f21c26eb9e9dbc61c7296fdbc85685638
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli
+http://127.0.0.1:6878/ace/getstream?id=99dce19a3b4328c720e0e9e99e0aa030ac5e71a7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) HD _peli
+http://127.0.0.1:6878/ace/getstream?id=8a6a752af889d171cf81397579933250165ee99a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli 
+http://127.0.0.1:6878/ace/getstream?id=21bb6bfd42c8215dda1b96c69a122306e72e9f67
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) HD720 _peli
+http://127.0.0.1:6878/ace/getstream?id=864370ea86dd0d93a3f7184c2185809a61649592
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli
+http://127.0.0.1:6878/ace/getstream?id=57b02a14770c42fe6996583a072d7cc3cc629aa4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=edfff7a8f3e3d3c0fe31902e2c42f891d2c112e6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=4dae190951ebb1a52ed7199ce343f274c250ca91
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=d393ed72358a99839d0e12809ce2d4a9e15acdd3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024)web _peli
+http://127.0.0.1:6878/ace/getstream?id=468663ed44b4273b6191759cd6beb6577d11cc52
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024) 4k _peli
+http://127.0.0.1:6878/ace/getstream?id=d3b16d1613e6087fba7de095c617f8096bbf83cf
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Del revés 2 (2024) BR _peli
+http://127.0.0.1:6878/ace/getstream?id=9b54f8967e2538525ff5d79a788c7c94331bec4f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Del revés 2 (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=d56b7d7093078b8cad009fc1b83bf53de346246f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Del revés 2 (2024)web _peli
+http://127.0.0.1:6878/ace/getstream?id=398341c8a25c2c78faa76513ce6a37ad11f02b7f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Del revés 2 (2024)4k _peli 
+http://127.0.0.1:6878/ace/getstream?id=36533feea1cf087707d89f3cbd422ecb34d72cbb
