@@ -185,150 +185,6 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arena RU
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Todas Menos Tú (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=80dbf2c92b4e6d8b601954da7c8d6d7dcfb81dfd
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Honeymoon (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=16af985028c85f9e0136229f5113ddbe8ab111b3
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La madre de la novia (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=358bd9e463260ca524aca7c1212d9c0ab7095398
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La zona de interés (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=95a8693221627c729316b76938e74b82776e1fc6
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El correo (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=eb2362d0f417078682796f29e14461420c6922e8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Dos chicas a la fuga (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=5d3acf30e67ca390c2e1bbd883003123d5e48e00
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The marvels _peli
-http://127.0.0.1:6878/ace/getstream?id=b617628df78aeed530d684be28d2206176b85501
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Viaje hacia el desierto (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=30b99e4b236580bf9370bb8b46b94d24a9a66dd9
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sombras del pasado (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=c20a97bdece39d7898253e85cc5b8d292e438de5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Noryang La batalla final (2023)_peli
-http://127.0.0.1:6878/ace/getstream?id=e25977b34bd54d628be34ae46974879abd09e68b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Telma, la unicornio (2024)_peli
-http://127.0.0.1:6878/ace/getstream?id=6e34a131bcee4a1d402f65c20d887f2340d70623
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Elemental _peli
-http://127.0.0.1:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Wish el poder de los deseos_peli
-http://127.0.0.1:6878/ace/getstream?id=72a5289f89f7974188225e74382464bac1225a2c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El Atronauta _peli
-http://127.0.0.1:6878/ace/getstream?id=7bae096111cc835a99f1c933bf0e22a93bbb66b1
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jaque Mate _peli
-http://127.0.0.1:6878/ace/getstream?id=9f229362b9efe8018b831bcaf54d09ecc3a5bacd
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Five nights at freddy _peli
-http://127.0.0.1:6878/ace/getstream?id=907375f768383173b5d716c86fa44972e42cf751
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) 1080 _peli
-http://127.0.0.1:6878/ace/getstream?id=01275f73ae7354316f2904cd92d6dbd791b497fa
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=897df1777dbdee1a7b1d41f972c872990439c7d8
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) BR _peli
-http://127.0.0.1:6878/ace/getstream?id=d69293d6bcdb7ac3f47e9790d7c288c23fc6cf0d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Cazafantasmas (2024) web4k _peli
-http://127.0.0.1:6878/ace/getstream?id=e91bce382c84105c8451acb6a543ba7d761a3c35
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Garfield La película (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=094c2c01a3dff0d44e2481d234b4314f0a09145c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Garfield La película (2024) 720p _peli
-http://127.0.0.1:6878/ace/getstream?id=0cf573ffc8a95be916e652544333d9fc1132674a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=14c861a46147f5a84c76215fb39c3b776065a508
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) 720p _peli 
-http://127.0.0.1:6878/ace/getstream?id=51c124c66a95b9af66acc65121de86ca6003fc77
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Juego de espías (2024) 1080p _peli
-http://127.0.0.1:6878/ace/getstream?id=6307477173edf1c2efae40aea7f37d04e0ebb6bb
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) _peli 
-http://127.0.0.1:6878/ace/getstream?id=1ad94be585c4d9fc75eab6ef985212249ae62ac3
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 720 _peli 
-http://127.0.0.1:6878/ace/getstream?id=9c178b8070de95b316c0964724a9738384cee854
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024) 1080p _peli
-http://127.0.0.1:6878/ace/getstream?id=03a737a9ed78f2d3d16ee52ceb138d2436301ae0
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024)1080 _peli
-http://127.0.0.1:6878/ace/getstream?id=a55a4c581a23951fee9e3e500633eb4688948a41
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boys Ride or Die (2024)4k _peli
-http://127.0.0.1:6878/ace/getstream?id=114ff079b923119d4628df0fdd50c5bbeb86fb14
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=561306b318bbbdb1ff2c31cbff15bb9c3ced3754
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 720_peli
-http://127.0.0.1:6878/ace/getstream?id=57ecfc05b8078c92911027ef4ea318d8f77c4cf9
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 1080_peli
-http://127.0.0.1:6878/ace/getstream?id=c417602de1757b69ce777f3c9ebdb11795952dbf
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 720_peli
-http://127.0.0.1:6878/ace/getstream?id=944a548833a142975e406a624b72d6b3f20ca44b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Monkey Man (2024) 4k _peli 
-http://127.0.0.1:6878/ace/getstream?id=e4c3f6d0c4a203e97eb6dcc056c660a6d403de36
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024)  _peli 
-http://127.0.0.1:6878/ace/getstream?id=e2676a4f6cb6d6a641791078c7d62acfcd49a13d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 720p _peli 
-http://127.0.0.1:6878/ace/getstream?id=16bff747b0a47adb5f1af5384027f7c28c27705c
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 1080 _peli 
-http://127.0.0.1:6878/ace/getstream?id=db68cbee1177f57a7acfd8817b4e6b08aee29a94
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Lisa Frankenstein (2024) 1080p _peli 
-http://127.0.0.1:6878/ace/getstream?id=3e883fb6bd913feb55ed641245678c47a3e68742
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024) BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=c26cf48b98ca5c6a1b554640ac90a792405a7603
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024)HD _peli 
-http://127.0.0.1:6878/ace/getstream?id=14184889f333e57eb7e1e0b67c108359f1db4bde
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,A Fondo (2024)UHD _peli 
-http://127.0.0.1:6878/ace/getstream?id=ce7729d5f3f7b3e0593a796dd114496287b41d84
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=e8acf74a698ca11d063cc2625d3560cccd880fcc
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)HD _peli 
-http://127.0.0.1:6878/ace/getstream?id=2d4a591e0dcef6b2e447a6defdb1a3b95ff73cd5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sangre en los labios (2024)BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=1afcedffe36f0cc2b691ee5d38ac0a578103cef3
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024)BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=95e0d30b2f2e324c32d04d60b98a6ebb06a3c75f
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024)hd _peli 
-http://127.0.0.1:6878/ace/getstream?id=56770a08a2f4c4dfcce02889e5466f3a9b6ad027
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Los instigadores (2024) _peli 
-http://127.0.0.1:6878/ace/getstream?id=268c5cc23d5d726d86058879a27db123d8957cac
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023)BR _peli
-http://127.0.0.1:6878/ace/getstream?id=a4a7f9c5da0d560bb7d0909c8ec2a6fd6d31be7a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023)HD _peli
-http://127.0.0.1:6878/ace/getstream?id=883ef0db9e71a51173ac624d297dfed0c1bc44e4
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El especialista (2023) _peli
-http://127.0.0.1:6878/ace/getstream?id=151d6533d01ed656e117ab4af0ab13a40b7a1d65
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024)BR _peli
-http://127.0.0.1:6878/ace/getstream?id=f5b24e1e3067333aec3e94d6e027f39675873117
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024)HD _peli
-http://127.0.0.1:6878/ace/getstream?id=77043ddb56a2fa2fce4209beef70d289a014c756
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fly Me to the Moon (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=2987d95a8c41fbce25d41424d946be1cf583c179
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024)BR _peli
-http://127.0.0.1:6878/ace/getstream?id=d108c26981bbc464890eeea17eeaa17de21e3c23
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024)HD _peli
-http://127.0.0.1:6878/ace/getstream?id=754e57526868f8b167cbdc9abd1bb18854679b46
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jackpot! (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=7f452ca6f9f86f5ad4314eef8b5aa7bfdac3d325
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El sindicato (2024)br _peli
-http://127.0.0.1:6878/ace/getstream?id=047f8512c6f13f034b859fb57774c741ab87e125
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El sindicato (2024)hd _peli
-http://127.0.0.1:6878/ace/getstream?id=786a32e45b7e1aa6352d521bc523386fd4e6d6af
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El salto (2024)HD _peli
-http://127.0.0.1:6878/ace/getstream?id=51d63a3d0f4bbb7439660f9e73dbaf4d11fb3054
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El salto (2024)BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=17ebe84e585b6d495a870a8b0202610a4b3bf210
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024)hd _peli
-http://127.0.0.1:6878/ace/getstream?id=dead67b16e7bbed4bb9bda784f118f1d9cee271d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024) _peli
-http://127.0.0.1:6878/ace/getstream?id=d0546f0d914afe27b29811f111dc01e81cb4c24a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024)720 _peli 
-http://127.0.0.1:6878/ace/getstream?id=ca23b42dc7a3b322a0ffdf40dfd3dbfd4fb959a2
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Janet Planet (2024) 4k _peli
-http://127.0.0.1:6878/ace/getstream?id=8418318d6e41f5c8646650f48701473fb8396d3e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arthur (2024) HD _peli
-http://127.0.0.1:6878/ace/getstream?id=3490c3afaac23e311ca4a3d4307e1049ca031464
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arthur (2024) BR4k _peli
-http://127.0.0.1:6878/ace/getstream?id=8df9e37f21c26eb9e9dbc61c7296fdbc85685638
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli
-http://127.0.0.1:6878/ace/getstream?id=99dce19a3b4328c720e0e9e99e0aa030ac5e71a7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) HD _peli
-http://127.0.0.1:6878/ace/getstream?id=8a6a752af889d171cf81397579933250165ee99a
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli 
-http://127.0.0.1:6878/ace/getstream?id=21bb6bfd42c8215dda1b96c69a122306e72e9f67
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) HD720 _peli
-http://127.0.0.1:6878/ace/getstream?id=864370ea86dd0d93a3f7184c2185809a61649592
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Immaculate (2024) BR _peli
-http://127.0.0.1:6878/ace/getstream?id=57b02a14770c42fe6996583a072d7cc3cc629aa4
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024)BR _peli
 http://127.0.0.1:6878/ace/getstream?id=edfff7a8f3e3d3c0fe31902e2c42f891d2c112e6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Misión hostil (2024)HD _peli
@@ -347,3 +203,75 @@ http://127.0.0.1:6878/ace/getstream?id=d56b7d7093078b8cad009fc1b83bf53de346246f
 http://127.0.0.1:6878/ace/getstream?id=398341c8a25c2c78faa76513ce6a37ad11f02b7f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Del revés 2 (2024)4k _peli 
 http://127.0.0.1:6878/ace/getstream?id=36533feea1cf087707d89f3cbd422ecb34d72cbb
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,El brillo de la televisión (2024) _peli 
+http://127.0.0.1:6878/ace/getstream?id=335954f24967c4e59381a6e254efb95a75139412
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Hit Man (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=2dda00a009367fbeb92341f280c6e3b4c846e716
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Hit Man (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=9084c570719a0b6a055ad07f543a803bb0b8293d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Kinds of Kindness (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=3f043be1f3b3d73017e241c591d72adc39530275
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Kinds of Kindness (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=94a10029093aa131a451228ebc69206e43f2bb39
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Kinds of Kindness (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=af21b64bd672270baea7b398e3c474c948546ff3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La fuga (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=91f7775eded7b74e28b6356f33be24c26944887e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La fuga (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=1c8da0f37a04cb6df0f945c68f87d6f736c28a27
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La fuga (2024) 1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=325b93fc861067ebb0498820d089215764c2aa88
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Painter (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=2c7a4121563386477b7927dc829055c30770ddb7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Painter (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=bd870e71490d17326b7070099c60bf45849e8954
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Painter (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=cf6ba0da218ebc94c6d52bb96caef6b66b1037a2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La trampa (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=b4eb14bc5da39d9afcf4338e7fae832bb7604e49
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La trampa (2024) 720_peli
+http://127.0.0.1:6878/ace/getstream?id=e10d967ac7b779dd1c7b4d8e1ba850ef7a42e8ce
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,La trampa (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=bc6fcaae33ca742d2fa790a0aa769520cacc9e7c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Disco, Ibiza, Locomía (2024)  _peli
+http://127.0.0.1:6878/ace/getstream?id=450c2cf4cb6ead99c4260b53acbdaa3f136f7695
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Disco, Ibiza, Locomía (2024)720  _peli
+http://127.0.0.1:6878/ace/getstream?id=4eec69314b494b55c8c3be23a75bce9bff75e0b2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Objetivo Hamas (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=25774100dd17fdf85c0241e905472b8a53a6cb92
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Objetivo Hamas (2023)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=163e3bcccdac8e5c0dbe8521417b2fe74841a58b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Objetivo Hamas (2023)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=7e3b271670203d513d0a079e70cbc8b1596e5ae1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Algea God of Pain (2023) _peli
+http://127.0.0.1:6878/ace/getstream?id=d817fda1f45ee7eca3a202bffa1e112a840aa90d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Algea God of Pain (2023)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=b81072607ffec9e56779b09dfb5071b7c13f4286
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Wanted Man (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=e7c4c11dffc443367ed6af15a905b4f92c5488fb
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Wanted Man (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=a4c8aba7a2439315d6d52a7044ba9683dbf14563
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Wanted Man (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=7959e642d1e79bb009db42d00d8a409be80aecc5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boxeador (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=7d5f766a0c080452e928bf441b54f30ed95ff4e1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Boxeador (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=36cb58f9261d99fe4ace22997f05171158ee0b03
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Bandida La número uno (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=f54db97ccca6473c7628932955bafbdff43ad9d6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Bandida La número uno (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=97035ea22d3acd9605e043ca5ca9c8b43b95c958
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Respira (2024)  _peli
+http://127.0.0.1:6878/ace/getstream?id=6d225e2d74275c7bbd914b3ace9c5392f6f0c67e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Respira (2024)720  _peli
+http://127.0.0.1:6878/ace/getstream?id=eb4cc763f3734b57af0677fd0adade51989e7bc0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Respira (2024)1080  _peli
+http://127.0.0.1:6878/ace/getstream?id=2050b65b6531fd6ea6689f086a5c4b5bb075ee1d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Héroes al amanecer (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=52445834d54b693d24b89c5ada4fce94bcd1f6f0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Héroes al amanecer (2024)720 _peli
+http://127.0.0.1:6878/ace/getstream?id=b714c5423c83c1c61b0dea37407c3d988e204b23
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Héroes al amanecer (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=f927fcca4a7f0803e46283239e8b74505408adf3
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Héroes al amanecer (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=ba82a99dc18fe3dda0ed694af94e3268b96664f6
