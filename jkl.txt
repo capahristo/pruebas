@@ -281,3 +281,43 @@ http://127.0.0.1:6878/ace/getstream?id=b714c5423c83c1c61b0dea37407c3d988e204b23
 http://127.0.0.1:6878/ace/getstream?id=f927fcca4a7f0803e46283239e8b74505408adf3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Héroes al amanecer (2024)HD _peli
 http://127.0.0.1:6878/ace/getstream?id=ba82a99dc18fe3dda0ed694af94e3268b96664f6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sector 36 (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=0fcdffaac4bbbcf3161e860d3bcd15c73daa7260
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sector 36 (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=9b2d27573346930ab4567d43eb50ffc8579b031c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sector 36 (2024)SD _peli
+http://127.0.0.1:6878/ace/getstream?id=5ede681d91808278dba502c65655b7d83790bc90
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tatami (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=a88d5151558c17e4470dc4290ba731a2017c857c
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tatami (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=1ea33bd07559da1df8c0c0d4c19d8df7bb3d293d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tatami (2024)SD _peli
+http://127.0.0.1:6878/ace/getstream?id=9309b7dd3e7dfa04035827d9b8f01213db5678ce
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jugando con fuego (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=aca71d51d0027fcbcac7444ed85019cbd2723cce
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jugando con fuego (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=627f822e7a8c37de59d61a5da2687861b6ffa136
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jugando con fuego (2024)HD2 _peli
+http://127.0.0.1:6878/ace/getstream?id=8d4739f93e2094f93993da3f2b5eb694da99a6e1
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Jugando con fuego (2024)SD _peli
+http://127.0.0.1:6878/ace/getstream?id=ad471f5cd190e74ed517ee15b94b12a3b73ef59e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tuesday (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=175e7938f3b24943ce25025150c23f23d5956ed2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tuesday (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=d1e2aa6e0ee7251d23df3fad366b9e34df99c2ea
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tuesday (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=e8538fd1e8daef7e06a03205b9bcf37356526c40
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tuesday (2024)SD _peli
+http://127.0.0.1:6878/ace/getstream?id=c4bfe8e13b2639a168425545734ef8401082bb06
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Tuesday (2024)BR4k _peli
+http://127.0.0.1:6878/ace/getstream?id=f625f117d33310e47c0c1b16513317d9fed8adf0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)HD _peli
+http://127.0.0.1:6878/ace/getstream?id=ef73e95d7b831e59283cddd90bf4776d87cae9e9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)BRsd _peli
+http://127.0.0.1:6878/ace/getstream?id=a8b6b3d86e97f4ea233696ffdfb91c66296d6345
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=eb5bc08ac7b43c06db654c576380d5f05113e05d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)SD _peli
+http://127.0.0.1:6878/ace/getstream?id=c315290d499a7e811059fd3abac1043ecaecdf6f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)BR4k _peli
+http://127.0.0.1:6878/ace/getstream?id=66ca8cfdaf644580c0c6d9f844eb2e7d4c2168ad
