@@ -321,3 +321,17 @@ http://127.0.0.1:6878/ace/getstream?id=eb5bc08ac7b43c06db654c576380d5f05113e05d
 http://127.0.0.1:6878/ace/getstream?id=c315290d499a7e811059fd3abac1043ecaecdf6f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Diabólica (2024)BR4k _peli
 http://127.0.0.1:6878/ace/getstream?id=66ca8cfdaf644580c0c6d9f844eb2e7d4c2168ad
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Project Silence (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=457431e63244c9bb2994478cff9bd43b7beafc5d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Project Silence (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=ddb6262f13d8ed0bf7c7bead061f80786b5b6eee
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Project Silence (2024)sd _peli
+http://127.0.0.1:6878/ace/getstream?id=f896513e7bd258c1566c4a3da2db005e04e3ee92
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Padre no hay más que uno 4 (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=88fb206a8c112204bd006e80ba3b23c344422a73
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,+Cuñados (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=0130b3e5f24ee850c85fbf3e5cff315a1395c917
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,+Cuñados (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=4ef0e6e8a33ce2fd9dc06a9f2bcdb1e93e1c6910
+#EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,El exorcismo de Georgetown (2024) _peli
+http://127.0.0.1:6878/ace/getstream?id=627620b3794894d79f70ba374716598ab8b1386a
