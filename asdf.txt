@@ -333,3 +333,13 @@ http://127.0.0.1:6878/ace/getstream?id=0130b3e5f24ee850c85fbf3e5cff315a1395c917
 http://127.0.0.1:6878/ace/getstream?id=4ef0e6e8a33ce2fd9dc06a9f2bcdb1e93e1c6910
 #EXTINF:-1 group-title="Otro contenido" tvg-id="NAT GEO HD" tvg-logo="https://i.postimg.cc/CMb7QnfM/natgeo.png" ,El exorcismo de Georgetown (2024) _peli
 http://127.0.0.1:6878/ace/getstream?id=627620b3794894d79f70ba374716598ab8b1386a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Deadpool y Lobezno (2024)BR _peli
+http://127.0.0.1:6878/ace/getstream?id=abd7c4453a72d00cb685a6efc17efdd55cd21fb6
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Deadpool y Lobezno (2024)BRhd _peli
+http://127.0.0.1:6878/ace/getstream?id=d99348af4b4fd9ffb9b0e2d72ff5ff86fb2d30a5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Deadpool y Lobezno (2024)BRsd _peli
+http://127.0.0.1:6878/ace/getstream?id=b759f6104d4c55631533b58ced9b4b4dbe103e15
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Deadpool y Lobezno (2024)1080 _peli
+http://127.0.0.1:6878/ace/getstream?id=e2da9841c091d794be4d2461c00e619ede9e844d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Deadpool y Lobezno (2024)BR4k _peli
+http://127.0.0.1:6878/ace/getstream?id=8768d1575e059c3f5dbd2a1c599f4a668722b6a1
