@@ -219,10 +219,6 @@ http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
 http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Football 3 RU
 http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Premier RU
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Game RU
-http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Fight RU
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arena RU
