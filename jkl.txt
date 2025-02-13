@@ -266,7 +266,7 @@ http://127.0.0.1:6878/ace/getstream?id=b16eeeb12d208029eff3dcc9e73613fd8b052737
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2 FHD por Tronoss
 http://127.0.0.1:6878/ace/getstream?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Futbol
-http://127.0.0.1:6878/ace/getstream?id=659cc6cda90af8bd4e72845929535c8efcbd6a44
+http://127.0.0.1:6878/ace/getstream?id=a5739dd2e862e4cc5d9eddd74b7101928edb6e01
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,1RFEF
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,1RFEF
