@@ -11,10 +11,16 @@ http://127.0.0.1:6878/ace/getstream?id=8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 http://127.0.0.1:6878/ace/getstream?id=97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 1080 MultiAudio
 http://127.0.0.1:6878/ace/getstream?id=51dbbfb42f8091e4ea7a2186b566a40e780953d9
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=738adb299639088132d0680b168e30c357f28866
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LALIGA --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA FHD (SATT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=b2aaaa6957acd2fac4184cf44821bb27eeb61b70
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LIGA FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=711e971c2c5fafc8a95f4a70ea16c0cb7da955d9
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4b38a91cc7ca46748fef4743ac0b5d193a701f8c
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA 2 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0a54d530717aa50cb65672a92efa5948286e492c
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c7e5f55d71e02b43f18b22b07a294bdf87822aa4
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 ES
 http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 2 ES
@@ -28,7 +34,13 @@ http://127.0.0.1:6878/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 (Fórmula 1)
 http://127.0.0.1:6878/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=d2952671bfd36490c2c51a5efaefb8b263bc7702
+http://127.0.0.1:6878/ace/getstream?id=1168fcb4506c60e1281c2443f4f0c4ad4fc494b6
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=dea87ce042a085fb892c12d1bf3be428e824237d
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=16d0bc18559f9bf853010c654080123109e4044f
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN FORMULA 1  --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 ES
 http://127.0.0.1:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
@@ -45,8 +57,32 @@ http://127.0.0.1:6878/ace/getstream?id=4e83f23945ab3e43982045f88ec31daaa4683102
 http://127.0.0.1:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN Bar 2 HD
 http://127.0.0.1:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=66a0863d19f7caa2591a36f2bce86b1878a3d0e3
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN BAR 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5cadba9736e0ecc0c0051e07f2339aeaa474e486
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN BAR 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d59ad07b387faf6fbb16f17f44cd80ec8f16e96b
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=46a672a4dfc910eebcf869d48a2efec2af1b54d7
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=20e01f934e60fe20feac8e14806cce08a2a2bf43
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c72693d177253473288fabc0827b8fefa9d5f7cf
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4a917dd906465938400c6968e707fe2a768c5c05
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1b35844ac5f1ca48cbf760c7ed425078e7138aba
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 BAR FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3709d3c2005ba9b407c8babbdaa2439cbe8242ed
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=719df957aad6dac822ba53a65dd8f78e10faef9a
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bf0bad0bb75ff95fa6841ee21adfb0cfe18b8435
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=eab9da2d81938c22221ee2043bd6f42691116b6d
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 FHD (*) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=ce11e4e1a141f5d9538ad0cce452bfc317032ed5
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,M+ DAZN 1 --> NEW LOOP
+http://127.0.0.1:6878/ace/getstream?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 ES
 http://127.0.0.1:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN2 --> NEW LOOP
@@ -71,12 +107,20 @@ http://127.0.0.1:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 http://127.0.0.1:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M. LaLiga 4 1080
 http://127.0.0.1:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LALIGA --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=7c70daff87373a903d92490ad3dc811723969e08
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga ES
-http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=86541e760681d3f51b4e9f7b4b3997beb38307b0
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6e7ac91952e5c8f45d38c4b1669221bed4800813
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e954376315de5608543ff24982af6e682e669af2
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=96c4350d8548d40574f70c51b1469e32de756c0a
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=95fb628a3503375c0f5cbf6522f37227993bafce
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga ES
 http://127.0.0.1:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga ES
+http://127.0.0.1:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LaLiga Hypermotion ES
 http://127.0.0.1:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LaLiga Hypermotion ES
@@ -89,14 +133,22 @@ http://127.0.0.1:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 http://127.0.0.1:6878/ace/getstream?id=7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LaLiga HYPERMOTION 3
 http://127.0.0.1:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
-#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA TV HYPERMOTION --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=994c4ab30f6ea98f8199a583fa1049d51ea136af
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA HYPERMOTION TV FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=714e36c758444ec594660149666dc7b642ceb030
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA HYPERMOTION TV2 HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11b2efc1062a8e0096c923bef49e9cbf5ca92db8
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA HYPERMOTION TV 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=99be70a8d6fd9eb4cc3980236cab4f2cfc62c909
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA HYPERMOTION TV4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0829094f216f639b2ac2d00b6cccce6585de6c7b
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga Hypermotion" tvg-logo="" ,LALIGA HYPERMOTION TV5 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=061f42fcaa7632fb0a889272a731036d033cddf5
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga TV Bar ES
 http://127.0.0.1:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga TV Bar ES
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,TV BAR FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=18d34608187b84b2ef8b5bbaa075305b247bfb5d
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga TV BAR FHD --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=edbd01a232af0eff375c6a174e68f28002e7c090
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones Multi
 http://127.0.0.1:6878/ace/getstream?id=52cf67f7fccf4d9d4e1c9c31620f1b139be3f5b7
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones Multi2 
@@ -143,8 +195,58 @@ http://127.0.0.1:6878/ace/getstream?id=a12a16f74cf12799d4475ae867dc61eb60e1ba2e
 http://127.0.0.1:6878/ace/getstream?id=df7d145fcaf0566db4098d2f10236185d92bc9fd
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 13
 http://127.0.0.1:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe804
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=9d0e983a628a79ec63ae599d2abc8b787e43aa68
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=555e59eafc481f9bace87064ec0a2e1cbff35c46
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a6592d8203205ed4156d557cf7e89cd171a0e3cd
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4b445a510e487162cb4e8dd76db4f205b61d5584
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a2737f92238d98040d7c6a1866156bf31c5677dd
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ LIGA DE CAMPEONES 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=525c14ea1d5cc446a1c6b6ce3c5d68f2e5060b50
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ LIGA DE CAMPEONES 5 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=29762a55736038653c9de6b5c1ef15c93faf9c6d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 6 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4c30a8d91113a5844f4e169bf99a99e1cb8aa309
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 7 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1bedb890da11e72038914a13187ea50929c9aec0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 8 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=5e1b4b2babaa473633cf1cd845ead7ff6b6fe0e7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 9 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=38c6320b298c093badbc10fd130dde90d64bc092
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 10 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d702abb3ed56ba7fa35e63daa9f6f14936a75792
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 11 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=2a489907edaf1275e2209e5a4fed9c19e6798463
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 12 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c098f002d0d35baca4baf597d3ef567d68ee48c8
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 13 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=548ea66bb8e4663a5bf0d2dede22d353f3994787
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ LIGA DE CAMPEONES 14 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=28e7c2f22073b01b664f795ed8ba638c4d654f03
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ LIGA DE CAMPEONES 15 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4615b5519344eb343b53c07ee74cbea7f08b2ed0
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 16 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=399d7931525f0868c706e1c1dc040cef0d44cae9
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES 17 SD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=35b0f9dd56626c3e009afe79f6507ec06e284c50
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=e5c3a8445064b51c99e62abd01a2ba015c914278
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ LIGA DE CAMPEONES FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=87fbb0ddc5920b1953741b99c63f0fd0e5f94814
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6cd53fbbf4e1cbe3e8d794ed3ffd26854af600b2
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ LIGA DE CAMPEONES 2 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c330d19436e5b56b29f3de4c1df5b5eb732d247d
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 3 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=2dc7b50512b2038cdef3198afdad6a825a9b6a32
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ LIGA DE CAMPEONES 3 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d6b1a6748c90eff83989514bf6bf010c3b87d470
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ LIGA DE CAMPEONES 4 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=60b2c4ca8dc8f29db0ef7d94c447e092e8b022b2
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEON5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ LIGA DE CAMPEONES 5 FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=7e0adcb774f48929ce0581bc8b7b327d0bacc1cb
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones ES
 http://127.0.0.1:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones ES
@@ -176,9 +278,37 @@ http://127.0.0.1:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ GOLF 2
 http://127.0.0.1:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=092612609be34a8e9ee61311c5dfc8561c009ccc
+http://127.0.0.1:6878/ace/getstream?id=d59b3e44af69deb11759f1b4016503ef08d7850f
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD --> NEW ERA II
-http://127.0.0.1:6878/ace/getstream?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
+http://127.0.0.1:6878/ace/getstream?id=915d7ba83810a8039b908b1a2855a1db4d79459d
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS ELLAS FHD --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6b3989747ca94e5d75875a97b4ed843d1a8d43bc
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,MOVISTAR GOLF 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=455735de568bcf97bbbd1ddf3f7d173a62a159f2
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=535b56ba59c01069ed4c87235504ecfd84162e0e
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a432081ef17e77c3accf74aa1c4e5009b9f5047e
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS ELLAS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1b265fcd2d4ebeeb5516f838d175a8818e04e298
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=43daa66ed37acb82c3b3cd5e597428d23b9d2b88
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ DEPORTES 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=26e8df994da33f94fdb70347b304631e59cb3282
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ DEPORTES 3 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=17000ca03379418a24ba7bca8ef93192270cd5c9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES 4 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6a4145f8994fcff2ea581c89d1cf25dfac48c822
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES 5 HD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=42af19430acd9c4198a4649ad4017a1a9c3e39fe
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ DEPORTES FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=0569aee1644145a026c120019024a61398ecbd97
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ DEPORTES FHD 2  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=c5a0a86c754e98f04012578d8d03a9c9ac637dad
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#VAMOS FHD  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=62662d67c3c616acceb09d88600dcddb4d59af4a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 
 http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf HD --> NEW LOOP
@@ -203,6 +333,14 @@ http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a
 http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport2 DE
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2 FHD --> NEW ERA II
+http://127.0.0.1:6878/ace/getstream?id=b1797c899abe3cbf7a075d2814bfbb0375832c7d
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=1d735b29ca242360ffe84c677cc02a3817311960
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EUROSPORT 1 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a9f8efad7aa5cd61ddd07f6c3575aed7aa553f49
+#EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=87100f6c8f6ffaf78eeb9b7eef0e9b382ffe61ff
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport1 
 http://127.0.0.1:6878/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f 
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport2 
@@ -271,7 +409,7 @@ http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sky Sports Football UK
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sky Sports Arena [UK] --> NEW LOOP
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sky Sports Arena UK
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TNT Sports 1 UK
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
@@ -341,10 +479,48 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Arena RU
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,RALLY TV --> NEW ERA III
-http://127.0.0.1:6878/ace/getstream?id=1a9085a7b8aa402f317fb86f7243f3736770b325
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sky Sports Cricket [UK] --> NEW LOOP
-http://127.0.0.1:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MGPTV | Camara de a bordo 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d59e1e43684d27f24348ccd21754b7a438826b42
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MGPTV | Camara de a bordo 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11278b69a588c83592ecbf054cfca1fc45542b64
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MGPTV | Camara de a bordo 3 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=fc9a5087ba3749d67de63607f3b29a42446b5fba
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MGPTV | Camara de a bordo 4 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=cf6f689178b73bea2dc0f6e206ffa40894ceafe9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,Gol Play FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=74398fdfd56c2d440d53206cd1a4d0549a13aa6b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="TELEDEPORTE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-teledeporte-612.png" ,Teledeporte FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3977c21113c3b89d1ee1a2da7ea5d41769b133f9
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MOVISTAR SERIES FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=580ea2fdb0bd52db7877648cbd3a586ff4677217
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,MOVISTAR CLASICOS FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=a6cade7fbdee40e60808ec0e568f7668d390b4e2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ Super Copa (SAT) --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=08bf74b427c432b974712d1d950eacaa513287e5
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ Super Copa --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=76eaa5f815461cac46700b5313b84d363297871b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ SuperCopa del Rey FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=bbd6cd7d0c137aaf2dc6e7c936fd45d7eaea49e2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1 TEST 1 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=b2543904857ebc4689f1b6659c09a94c6f661c41
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ ACCION FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=4589a5762f6b3be7e290b48ea11c0eac8c18884b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ PLUS 2 FHD --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=6337ce87035e8790c1146719725d57739f0a0fb2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UFC Fight Pass --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=3048b9c384eaf16734c337c08aabc50ea3e6c5e4
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA TV --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=59377bc73bedf81c5f20a327e09e5fc5f76bdc5f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA NETWORK --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=d6a01276e7b5e533ebb7f03f825a459a2ee7aef0
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ Super Copa  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=9fd0ad6591be70c5c31b7659162cf67ae2dff16e
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,M+ Super Copa  --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=440fc0139d2ea66c7680b6df85512eaf4dee446a
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1 TEST 2 --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=21511645a5f014cb64f85d445482a8a14bba9e62
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,RALLY TV  --> NEW ERA III
+http://127.0.0.1:6878/ace/getstream?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,AutoMotorSport HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal Motor (720p) --> NEW LOOP
@@ -357,11 +533,11 @@ http://127.0.0.1:6878/ace/getstream?id=fffaa64d41e500250064181762d510d513137410
 http://127.0.0.1:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SuperTennis HD --> NEW LOOP
 http://127.0.0.1:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Tennis Channel
-http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Tennis Channel
-http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sky Sport F1 DE
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA TV
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Tennis Channel
+http://127.0.0.1:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,The Tennis Channel
+http://127.0.0.1:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
