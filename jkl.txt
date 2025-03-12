@@ -296,7 +296,7 @@ http://127.0.0.1:6878/ace/getstream?id=95120cee8223e9af839994ecc2b96aef05f8a151
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EUROSPORT 2 FHD --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8e9390c1647da151a7bc0e1b37c4b4d21d83049d
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento del Momento
-http://127.0.0.1:6878/ace/getstream?id=3340749482e32e54bf2a35af949f6e5ab55b4e05
+http://127.0.0.1:6878/ace/getstream?id=0700e302cba2510dd23f8942f174558c85f861fe
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,RFEF 1
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d 
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,RFEF 2
